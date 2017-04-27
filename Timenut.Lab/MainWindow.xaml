@@ -1,0 +1,15 @@
+﻿<Window
+    x:Class="Timenut.Lab.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:c="clr-namespace:Timenut.Lab.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Timenut.Lab"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="360"
+    Height="640"
+    mc:Ignorable="d">
+    
+    <c:TableCanvas />
+</Window>
